@@ -1,4 +1,4 @@
-# Tech Summit - Cortex Agents Streamlit Demo
+# Cortex Agents + Threads Streamlit Demo
 
 A Streamlit application that integrates with Snowflake Cortex Agents to provide an interactive chat interface for querying and analyzing data.
 
