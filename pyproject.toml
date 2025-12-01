@@ -1,0 +1,12 @@
+[project]
+name = "techsummit-streamlit"
+version = "0.1.0"
+description = "Cortex Agents Streamlit Demo"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "humanize>=4.14.0",
+    "requests>=2.32.5",
+    "sseclient-py>=1.8.0",
+    "streamlit>=1.51.0",
+]
